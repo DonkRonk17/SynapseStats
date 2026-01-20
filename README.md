@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9bc15cf8-9671-429d-a361-4871624e6dbd" />
+
 # SynapseStats
 
 **Communication Analytics for THE_SYNAPSE**
@@ -313,6 +315,9 @@ stats = SynapseStats(synapse_path=Path("/custom/path"))
 **Fix:** Ensure messages follow standard Synapse schema with ISO timestamps
 
 ---
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e71d7e69-2659-4ba9-9e4c-1f8d30ad0383" />
+
 
 ## 🙏 Credits
 
