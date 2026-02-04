@@ -1,0 +1,27 @@
+# SynapseStats v1.0 - Requirements
+# ================================
+#
+# SynapseStats has ZERO external dependencies!
+# It uses only Python standard library modules.
+#
+# Standard Library Modules Used:
+# - json (JSON parsing)
+# - pathlib (cross-platform paths)
+# - collections (Counter, defaultdict)
+# - datetime (timestamps, timedelta)
+# - dataclasses (data structures)
+# - csv (CSV export)
+# - argparse (CLI interface)
+# - typing (type hints)
+#
+# Python Version Requirement:
+# Python >= 3.7 (for dataclasses support)
+#
+# Installation:
+# No pip install required - just use directly!
+#
+# ================================
+# This file intentionally has no dependencies listed.
+# SynapseStats is designed to work out-of-the-box
+# with zero installation required.
+# ================================
